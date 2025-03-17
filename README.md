@@ -61,8 +61,9 @@ E-commerce platforms are rapidly evolving, yet many online stores still lack int
 
 ### 3. System Design
 
-#### Use Case Diagram
-*(Will be added later)*
+![Use Case](https://github.com/user-attachments/assets/d548a0e9-3082-4efe-86d3-732cdcb10a6e)
+
+
 
 #### UI Mockups
 - **Home Page**: AI-driven featured products and search.
