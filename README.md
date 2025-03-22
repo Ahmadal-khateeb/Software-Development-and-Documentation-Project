@@ -73,4 +73,4 @@ E-commerce platforms are rapidly evolving, yet many online stores still lack int
 
 ---
 
-**End of Proposal**
+**End**
