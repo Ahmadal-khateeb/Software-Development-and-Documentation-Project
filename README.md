@@ -61,9 +61,12 @@ E-commerce platforms are rapidly evolving, yet many online stores still lack int
 
 ### 3. System Design
 
+The system design is represented through a Use Case Diagram, which illustrates the main interactions between users (customers and administrators) and the platform's core functionalities.
+
+**Figure 1: Use Case Diagram of the E-commerce Platform**  
 ![Use Case](https://github.com/user-attachments/assets/d548a0e9-3082-4efe-86d3-732cdcb10a6e)
 
-
+---
 
 #### UI Mockups
 - **Home Page**: AI-driven featured products and search.
