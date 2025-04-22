@@ -16,5 +16,5 @@ The ERD below shows the entities in the system and their relationships.
 - **Order → Product**: An order can contain multiple products, and a product can appear in many orders (Many-to-many).
 
 ## ER Diagram:
-![ERD Diagram](![Erd-Img](https://github.com/user-attachments/assets/d9067a0f-3af0-4cf1-bc99-16f4852c1ce9)
+![ERD Diagram](https://github.com/user-attachments/assets/d9067a0f-3af0-4cf1-bc99-16f4852c1ce9)
 
