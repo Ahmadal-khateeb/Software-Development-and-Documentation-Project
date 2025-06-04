@@ -4,7 +4,7 @@ The system is built using the **Model-View-Controller (MVC)** architecture, whic
 
 ---
 
-### 🧱 Components
+###  Components
 
 #### 1. Model (Data Layer)
 - Responsible for data handling and business logic.
@@ -46,7 +46,7 @@ The system is built using the **Model-View-Controller (MVC)** architecture, whic
 
 ---
 
-### 🔁 Data Flow
+###  Data Flow
 ![Use Case](https://github.com/user-attachments/assets/4db57ff5-7d47-422a-8419-34e64a7ae3f4)
 
 
