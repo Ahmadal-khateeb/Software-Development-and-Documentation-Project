@@ -47,6 +47,7 @@ The system is built using the **Model-View-Controller (MVC)** architecture, whic
 ---
 
 ### 🔁 Data Flow
-![Use Case](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![Use Case](https://github.com/user-attachments/assets/4db57ff5-7d47-422a-8419-34e64a7ae3f4)
+
 
 
